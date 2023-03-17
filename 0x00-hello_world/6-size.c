@@ -1,9 +1,8 @@
 #include<stdio.h>
 /**
- * main - it will start executing the program
- *
- * Ruturn: always 0
- **/
+ * main - this main fuction will start executing the program
+ * Return: always 0
+ */
 int main(void)
 {
 	printf("size of a char: %lu byte(s)", sizeof(char));
