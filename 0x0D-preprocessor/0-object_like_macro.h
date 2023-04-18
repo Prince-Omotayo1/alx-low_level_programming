@@ -1,12 +1,6 @@
-#include <stdio.h>
-/**
- *main - prints the name of the file
- *
- *Return: always 0
-*/
+#ifndef _0_OBJECT_LIKE_MARCO_H_
+#define _0_OBJECT_LIKE_MARCO_H_
 
-int main(void)
-{
-	printf("%s\n", __FILE__);
-	return (0);
-}
+#define SIZE 1024
+
+#endif
